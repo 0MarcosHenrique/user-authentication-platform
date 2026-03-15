@@ -1,0 +1,13 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Rubik", sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  max-width: 100vw;
+  background: linear-gradient(180deg, rgb(73, 67, 100) 0%, rgb(51, 24, 72), rgb(2, 2, 66)100%);
+}
+
